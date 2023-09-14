@@ -1,0 +1,6 @@
+[
+    {"id":"1", "pregunta": "¿Cómo se define un nuevo componente en React? ", "answer": "Respuesta 1", "titulo":"pregunta 1"},
+    {"id":"2", "pregunta": "¿Cómo se define un nuevo estado? ", "answer": "Respuesta 2", "titulo":"pregunta 2"},
+    {"id":"3","pregunta":"F o V. El inicializador del estado puede ser una función. ", "answer": "Respuesta 3", "titulo":"pregunta 3"},
+    {"id":"4", "pregunta": "¿Qué es el virtual DOM? ", "answer": "Respuesta 4", "titulo":"pregunta 4"}
+]
